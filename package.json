@@ -1,0 +1,17 @@
+{
+  "name": "spacexclone",
+  "version": "1.0.0",
+  "description": "clone website for educational and experience using html , Css and Javascript",
+  "main": "Index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "and",
+    "javascript"
+  ],
+  "author": "Mathew",
+  "license": "MIT"
+}
